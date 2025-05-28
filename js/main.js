@@ -18,7 +18,7 @@ document
             method: "Contact Form",
         });
         alert("Form submitted! (Check GA4 DebugView)");
-        window.location.href = "thankyou.html";
+        window.location.href = "services.html";
     });
 
 function trackAddToCart(productName, productCategory, price) {
